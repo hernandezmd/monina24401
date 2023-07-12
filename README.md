@@ -1,0 +1,3 @@
+- 👋 Hola!!! Mi nombre es Mónica Daniela. Vivo en la ciudad de La Rioja, en la hermosa Argentina. Soy abogada de profesión y docente en escuelas públicas de nivel Medio.
+- 👀 Estoy interesada en aprender las diversas tecnologias de desarrollo web del lado del cliente.
+- 🌱 Actualmente estoy dando mis primeros pasos en este universo de la programación.
